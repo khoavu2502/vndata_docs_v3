@@ -22,7 +22,7 @@ Công cụ **VPN** đã không còn mới lạ với chúng ta. Trong quá trìn
 ![003](vpn/003.png)
 
 * **Bước 4:** Sau khi cửa sổ hiện lên, quý khách điền đầy đủ các thông tin như *username*, *password* và *project*. Quý khách vui lòng ghi chú lại thông tin, thông tin *username* và *password* sẽ được sử dụng để khởi tạo kết nối VPN cùng với chuỗi *IPSec-pre shared* như đã đề cập ở trên.
-![004](vpn/001.png)
+![004](vpn/004.png)
 
 Vậy là quý khách đã tạo xong profile đầu tiên cho mình. Tiếp theo, tùy thuộc vào hệ điều hành Linux hoặc Windows mà chúng ta sẽ có cách cài đặt vpn client khác nhau.
 
